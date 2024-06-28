@@ -1,0 +1,10 @@
+p001,Poleron,Nike,rojo,Mujer,talla L-M-S,Tela de canalé,Pakistán,100,45990
+p002,Poleron,Calvin Klein,negro,Unisex,talla L-M-S,algodon organico,Francia,100,50994
+p003,Poleron,Tommy Hilfiger,blanco,Hombre,talla L-M-S,algodon organico,USA,100,36990
+p004,Poleron,Jordan,rojo con negro,Unisex,talla L-M-S,tejido Fleece suave,China,100,50000
+p005,Poleron,Adidas,azul,Mujer,talla L-M-S,algodon,Alemania,100,34990
+p006,Poleron,Gap,rosado,Mujer,talla L-M-S,algodon,USA,100,50000
+p007,Poleron,Caterpillar,amarillo,Hombre,talla L-M-S,algodon,Vietnam,100,50000
+p008,Poleron,Kappa,gris,Unisex,talla L-M-S,algodon y poliester,Bangladesh,100,70000
+p009,Poleron,Ralph Lauren,blanco con negro,Hombre,talla L-M-S,algodon suave,Indonesia,100,100000
+p010,Poleron,Ecko Unltd,gris con blanco,Hombre,talla L-M-S,algodon y poliester,USA,100,30000
